@@ -1,0 +1,45 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    background-color:white;
+
+}
+
+.header_div{
+    font-family: 'Nunito Sans', sans-serif;
+    background-color:indianred ;
+    color:white;
+    
+    
+    
+}
+
+.header_div p{
+    font-family: 'Nunito Sans', sans-serif;
+    color:white;
+    letter-spacing:  2px;
+    font-size:13px;
+    font-weight:bold;
+
+    
+}
+
+.main_div button{
+    font-family:comic;
+    margin-top:30px;
+    width:130px;
+    font-weight:bold;
+    letter-spacing:3px;
+
+}
+
+#copy_right_footer{
+    position:fixed;
+    color:white;
+    background-color:lightcoral;
+    text-shadow:5px 5px 5px lightgrey;
+    width:100%;
+    text-align:center;
+    line-height:3;
+    bottom:0;
+}
+
